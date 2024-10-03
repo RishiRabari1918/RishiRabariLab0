@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Aspinder\'s Android Lab</string>
+    <string name="app_name">Rishi Android Lab</string>
     <string name="Hello_message">bonjour tout le monde</string>
     <string name="button_message">je sius un bouton</string>
+    <string name="button__message">je sisu un bouton</string>
 </resources>
